@@ -1,0 +1,8 @@
+/db_vectorial
+/__pycache__
+/db_parents
+/data
+/.venv
+/app_files/data
+/.env
+app_files/src/.env
